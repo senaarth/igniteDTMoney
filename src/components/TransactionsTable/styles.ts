@@ -22,7 +22,7 @@ export const Container = styled.div`
       color: var(--text-body);
 
       &.deposit {
-        color: var(--green);
+        color: var(--light-green);
       }
 
       &.withdraw {
