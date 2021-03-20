@@ -20,7 +20,7 @@ export const Content = styled.div`
     padding: 0 2rem;
     border-radius: 0.25rem;
     height: 3rem;
-
+    outline: none;
     transition: filter 0.4s;
 
     &:hover {
